@@ -1,0 +1,19 @@
+body{
+    color:aqua;
+    background-color:black;
+}
+.heading{
+    width:80%;
+    font-size:22px;
+}
+#camera{
+    border:2px dashed rgb(16, 244, 248);
+    width:350px;
+    height:300px;
+}
+.name_of_the_member{
+    color:aquamarine;
+}
+#result_member_name,#result_member_accuracy{
+     color:mediumturquoise;
+}
